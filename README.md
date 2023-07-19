@@ -1,1 +1,1 @@
-# Project_Recipes
+This project will consist of 3 recipes ofifferent ice-creams which will all be linked back to the index.html file, to make is easy for others to view the recipes. In the index file the recipes will be put into a unordered list with anchor elements to link them to the different files in the recipes folder. Within the recipes html files you will find a heading, in the heading you will find the name of the ice-cream. then a Picture of the finished product, as well as a description, ingredients, and steps to making the ice-cream.
